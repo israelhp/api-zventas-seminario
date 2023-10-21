@@ -1,0 +1,27 @@
+name: Docker Image Deploy API-CATALOG
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+env:
+  DOCKER_IMAGE_NAME: 'github-actions-docker-catalog'
+  AZURE_WEB_APP: 'github-actions-docker-catalog'
+  
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Build the Docker image
+      run: docker build . --file ./src/Services/Catalog/Catalog.Api/Dockerfile --tag '${{env.DOCKER_IMAGE_NAME}}':latest
+    - name: Docker Login
+      run: docker login --username '${{secrets.DOCKER_LOGIN}}' --password '${{secrets.DOCKER_PASSWORD}}'
+    - name: Tag the Docker image
+      run: docker tag '${{env.DOCKER_IMAGE_NAME}}':latest '${{secrets.DOCKER_LOGIN}}'/'${{env.DOCKER_IMAGE_NAME}}':latest
+    - name: Push the Docker image
+      run: docker push '${{secrets.DOCKER_LOGIN}}'/'${{env.DOCKER_IMAGE_NAME}}':latest
