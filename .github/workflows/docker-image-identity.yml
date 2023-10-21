@@ -28,8 +28,8 @@ jobs:
     
     - uses: azure/login@v1
       with:
-        creds: ${{ secrets.AZURE_CREDENTIALS 
-        
+        creds: ${{ secrets.AZURE_CREDENTIALS }}
+    
     - name: Azure WebApp Deployment
       uses: Azure/webapps-deploy@v2
       with:
