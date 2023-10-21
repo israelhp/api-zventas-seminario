@@ -39,7 +39,8 @@ namespace Identity.Api.Controllers
                 return Ok(new {
                     access_token = tokenString,
                     token_type = "bearer",
-                    expires_in = 86399
+                    expires_in = 86399,
+                    message = "running..."
                 });
             }
             else

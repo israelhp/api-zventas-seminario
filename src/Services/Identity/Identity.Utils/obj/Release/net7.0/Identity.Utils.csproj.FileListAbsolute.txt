@@ -1,0 +1,17 @@
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\bin\Release\net7.0\Identity.Utils.deps.json
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\bin\Release\net7.0\Identity.Utils.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\bin\Release\net7.0\Identity.Utils.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\bin\Release\net7.0\Identity.Database.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\bin\Release\net7.0\Identity.Domain.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\bin\Release\net7.0\Identity.Database.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\bin\Release\net7.0\Identity.Domain.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\obj\Release\net7.0\Identity.Utils.csproj.AssemblyReference.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\obj\Release\net7.0\Identity.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\obj\Release\net7.0\Identity.Utils.AssemblyInfoInputs.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\obj\Release\net7.0\Identity.Utils.AssemblyInfo.cs
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\obj\Release\net7.0\Identity.Utils.csproj.CoreCompileInputs.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\obj\Release\net7.0\Identity.Utils.csproj.CopyComplete
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\obj\Release\net7.0\Identity.Utils.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\obj\Release\net7.0\refint\Identity.Utils.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\obj\Release\net7.0\Identity.Utils.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Utils\obj\Release\net7.0\ref\Identity.Utils.dll
