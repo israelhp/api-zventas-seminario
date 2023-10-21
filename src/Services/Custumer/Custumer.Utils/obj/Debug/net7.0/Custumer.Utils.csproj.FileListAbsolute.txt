@@ -1,0 +1,17 @@
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\bin\Debug\net7.0\Custumer.Utils.deps.json
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\bin\Debug\net7.0\Custumer.Utils.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\bin\Debug\net7.0\Custumer.Utils.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\bin\Debug\net7.0\Custumer.Database.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\bin\Debug\net7.0\Custumer.Domain.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\bin\Debug\net7.0\Custumer.Database.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\bin\Debug\net7.0\Custumer.Domain.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\obj\Debug\net7.0\Custumer.Utils.csproj.AssemblyReference.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\obj\Debug\net7.0\Custumer.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\obj\Debug\net7.0\Custumer.Utils.AssemblyInfoInputs.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\obj\Debug\net7.0\Custumer.Utils.AssemblyInfo.cs
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\obj\Debug\net7.0\Custumer.Utils.csproj.CoreCompileInputs.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\obj\Debug\net7.0\Custumer.Utils.csproj.CopyComplete
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\obj\Debug\net7.0\Custumer.Utils.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\obj\Debug\net7.0\refint\Custumer.Utils.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\obj\Debug\net7.0\Custumer.Utils.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Utils\obj\Debug\net7.0\ref\Custumer.Utils.dll

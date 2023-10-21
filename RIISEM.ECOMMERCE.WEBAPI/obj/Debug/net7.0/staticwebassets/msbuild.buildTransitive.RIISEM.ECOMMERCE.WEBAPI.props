@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RIISEM.ECOMMERCE.WEBAPI.props" />
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Database\bin\Debug\net7.0\Identity.Database.deps.json
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Database\bin\Debug\net7.0\Identity.Database.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Database\bin\Debug\net7.0\Identity.Database.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Database\bin\Debug\net7.0\Identity.Domain.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Database\bin\Debug\net7.0\Identity.Domain.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Database\obj\Debug\net7.0\Identity.Database.csproj.AssemblyReference.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Database\obj\Debug\net7.0\Identity.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Database\obj\Debug\net7.0\Identity.Database.AssemblyInfoInputs.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Database\obj\Debug\net7.0\Identity.Database.AssemblyInfo.cs
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Database\obj\Debug\net7.0\Identity.Database.csproj.CoreCompileInputs.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Database\obj\Debug\net7.0\Identity.Database.csproj.CopyComplete
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Database\obj\Debug\net7.0\Identity.Database.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Database\obj\Debug\net7.0\refint\Identity.Database.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Database\obj\Debug\net7.0\Identity.Database.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Database\obj\Debug\net7.0\ref\Identity.Database.dll

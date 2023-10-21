@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "RfNPJ1u4Xl2MbGWgkmH+hyu2ST/mYux8GCrsCBlqkJBeWkeh9wtZsZHaUcfFonA56yqHWyp7rW/MuL9uy1vAwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajua\\.nuget\\packages\\mongodb.bson\\2.22.0\\mongodb.bson.2.22.0.nupkg.sha512",
+    "C:\\Users\\rajua\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\rajua\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512",
+    "C:\\Users\\rajua\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
+    "C:\\Users\\rajua\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\rajua\\.nuget\\packages\\serilog.sinks.periodicbatching\\3.1.0\\serilog.sinks.periodicbatching.3.1.0.nupkg.sha512",
+    "C:\\Users\\rajua\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\rajua\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

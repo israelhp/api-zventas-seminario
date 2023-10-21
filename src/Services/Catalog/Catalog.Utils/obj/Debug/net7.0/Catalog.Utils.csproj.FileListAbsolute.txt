@@ -1,0 +1,15 @@
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Utils\obj\Debug\net7.0\Catalog.Utils.csproj.AssemblyReference.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Utils\obj\Debug\net7.0\Catalog.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Utils\obj\Debug\net7.0\Catalog.Utils.AssemblyInfoInputs.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Utils\obj\Debug\net7.0\Catalog.Utils.AssemblyInfo.cs
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Utils\obj\Debug\net7.0\Catalog.Utils.csproj.CoreCompileInputs.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Utils\bin\Debug\net7.0\Catalog.Utils.deps.json
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Utils\bin\Debug\net7.0\Catalog.Utils.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Utils\bin\Debug\net7.0\Catalog.Utils.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Utils\bin\Debug\net7.0\Catalog.Domain.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Utils\bin\Debug\net7.0\Catalog.Domain.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Utils\obj\Debug\net7.0\Catalog.Utils.csproj.CopyComplete
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Utils\obj\Debug\net7.0\Catalog.Utils.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Utils\obj\Debug\net7.0\refint\Catalog.Utils.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Utils\obj\Debug\net7.0\Catalog.Utils.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Utils\obj\Debug\net7.0\ref\Catalog.Utils.dll

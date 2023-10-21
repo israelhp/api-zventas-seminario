@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+zdnJZKVJm4J7RTFk5d0gH9c8Vbu81YBXIFOkwwO2LHR3kTgOrPZyThQTrS8NxmWkzzo3mFRLgoZzXJujTQOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Gateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajua\\.nuget\\packages\\mongodb.bson\\2.22.0\\mongodb.bson.2.22.0.nupkg.sha512",
+    "C:\\Users\\rajua\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\rajua\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

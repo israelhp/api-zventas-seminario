@@ -1,0 +1,15 @@
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Database\obj\Debug\net7.0\Catalog.Database.csproj.AssemblyReference.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Database\obj\Debug\net7.0\Catalog.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Database\obj\Debug\net7.0\Catalog.Database.AssemblyInfoInputs.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Database\obj\Debug\net7.0\Catalog.Database.AssemblyInfo.cs
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Database\obj\Debug\net7.0\Catalog.Database.csproj.CoreCompileInputs.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Database\bin\Debug\net7.0\Catalog.Database.deps.json
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Database\bin\Debug\net7.0\Catalog.Database.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Database\bin\Debug\net7.0\Catalog.Database.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Database\bin\Debug\net7.0\Catalog.Domain.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Database\bin\Debug\net7.0\Catalog.Domain.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Database\obj\Debug\net7.0\Catalog.Database.csproj.CopyComplete
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Database\obj\Debug\net7.0\Catalog.Database.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Database\obj\Debug\net7.0\refint\Catalog.Database.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Database\obj\Debug\net7.0\Catalog.Database.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Database\obj\Debug\net7.0\ref\Catalog.Database.dll

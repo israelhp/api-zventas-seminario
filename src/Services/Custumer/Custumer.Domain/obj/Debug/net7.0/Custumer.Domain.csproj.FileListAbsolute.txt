@@ -1,0 +1,12 @@
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Domain\bin\Debug\net7.0\Custumer.Domain.deps.json
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Domain\bin\Debug\net7.0\Custumer.Domain.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Domain\bin\Debug\net7.0\Custumer.Domain.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Domain\obj\Debug\net7.0\Custumer.Domain.csproj.AssemblyReference.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Domain\obj\Debug\net7.0\Custumer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Domain\obj\Debug\net7.0\Custumer.Domain.AssemblyInfoInputs.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Domain\obj\Debug\net7.0\Custumer.Domain.AssemblyInfo.cs
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Domain\obj\Debug\net7.0\Custumer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Domain\obj\Debug\net7.0\Custumer.Domain.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Domain\obj\Debug\net7.0\refint\Custumer.Domain.dll
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Domain\obj\Debug\net7.0\Custumer.Domain.pdb
+C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Domain\obj\Debug\net7.0\ref\Custumer.Domain.dll

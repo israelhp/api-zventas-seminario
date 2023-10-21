@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IM3HLlzERTxeyZtSg8xXk29Yveq/q/Zaum3UrxpgAZE=",
+  "Source": "Api.Gateway.Webclient",
+  "BasePath": "_content/Api.Gateway.Webclient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
