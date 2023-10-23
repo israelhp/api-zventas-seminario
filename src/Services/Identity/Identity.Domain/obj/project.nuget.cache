@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mcOJQL3XeFj4H9eOGDHw/kRchZ+lcoQAfdUtU8rgZHwFEhcNJUWNgX2gXpvsAVy3tT1hwCgIEMwHlFdAdGacQw==",
+  "dgSpecHash": "6Q++SXykQcfTF4u9YR2yyYy8NevHuqzqKyN5+rWSYM8baPRi5QtrdLUMqxZQG8XxZ/9V99HIbLeZnNN2gwEH4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Domain\\Identity.Domain.csproj",
+  "projectFilePath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Domain\\Identity.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rajua\\.nuget\\packages\\microsoft.aspnet.cors\\5.0.0\\microsoft.aspnet.cors.5.0.0.nupkg.sha512",
     "C:\\Users\\rajua\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",

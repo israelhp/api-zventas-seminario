@@ -2172,11 +2172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Api\\Custumer.Api.csproj",
+      "projectUniqueName": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Api\\Custumer.Api.csproj",
       "projectName": "Custumer.Api",
-      "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Api\\Custumer.Api.csproj",
+      "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Api\\Custumer.Api.csproj",
       "packagesPath": "C:\\Users\\rajua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Api\\obj\\",
+      "outputPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rajua\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2194,17 +2194,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Behaviour\\Custumer.Behaviour.csproj": {
-              "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Behaviour\\Custumer.Behaviour.csproj"
+            "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Behaviour\\Custumer.Behaviour.csproj": {
+              "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Behaviour\\Custumer.Behaviour.csproj"
             },
-            "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Database\\Custumer.Database.csproj": {
-              "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Database\\Custumer.Database.csproj"
+            "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Database\\Custumer.Database.csproj": {
+              "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Database\\Custumer.Database.csproj"
             },
-            "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Domain\\Custumer.Domain.csproj": {
-              "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Domain\\Custumer.Domain.csproj"
+            "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Domain\\Custumer.Domain.csproj": {
+              "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Domain\\Custumer.Domain.csproj"
             },
-            "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Utils\\Custumer.Utils.csproj": {
-              "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Utils\\Custumer.Utils.csproj"
+            "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Utils\\Custumer.Utils.csproj": {
+              "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Utils\\Custumer.Utils.csproj"
             }
           }
         }

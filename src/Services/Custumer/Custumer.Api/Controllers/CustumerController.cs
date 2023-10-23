@@ -124,9 +124,9 @@ namespace Custumer.Api.Controllers
             var username = identity.Claims
                         .Where(c => c.Type == "username")
                         .Select(c => c.Value).FirstOrDefault();
-
+            var json = Newtonsoft.Json.JsonConvert.DeserializeObject(profile.ToString());
             CustumerBehaviour pivot = new CustumerBehaviour();
-            return pivot.UpdateProfile(profile, username);
+            return pivot.UpdateProfile(json, username);
         }
         [Authorize(Roles = "1,admin")]
         [HttpPost]

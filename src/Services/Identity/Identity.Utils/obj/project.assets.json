@@ -1540,7 +1540,8 @@
         "lib/netstandard2.0/EASendMail.deps.json",
         "lib/netstandard2.0/EASendMail.dll",
         "lib/uap10.0/EASendMail.winmd",
-        "tools/init.ps1"
+        "tools/init.ps1",
+        "tools/installed.dat"
       ]
     },
     "Microsoft.AspNet.Cors/5.0.0": {
@@ -4390,11 +4391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Utils\\Identity.Utils.csproj",
+      "projectUniqueName": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Utils\\Identity.Utils.csproj",
       "projectName": "Identity.Utils",
-      "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Utils\\Identity.Utils.csproj",
+      "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Utils\\Identity.Utils.csproj",
       "packagesPath": "C:\\Users\\rajua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Utils\\obj\\",
+      "outputPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Utils\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rajua\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4411,11 +4412,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Database\\Identity.Database.csproj": {
-              "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Database\\Identity.Database.csproj"
+            "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Database\\Identity.Database.csproj": {
+              "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Database\\Identity.Database.csproj"
             },
-            "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Domain\\Identity.Domain.csproj": {
-              "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Domain\\Identity.Domain.csproj"
+            "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Domain\\Identity.Domain.csproj": {
+              "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Domain\\Identity.Domain.csproj"
             }
           }
         }

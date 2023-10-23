@@ -17,3 +17,22 @@ C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identi
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Behaviour\obj\Debug\net7.0\refint\Identity.Behaviour.dll
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Behaviour\obj\Debug\net7.0\Identity.Behaviour.pdb
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Behaviour\obj\Debug\net7.0\ref\Identity.Behaviour.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\bin\Debug\net7.0\Identity.Behaviour.deps.json
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\bin\Debug\net7.0\Identity.Behaviour.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\bin\Debug\net7.0\Identity.Behaviour.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\bin\Debug\net7.0\Identity.Database.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\bin\Debug\net7.0\Identity.Domain.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\bin\Debug\net7.0\Identity.Utils.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\bin\Debug\net7.0\Identity.Utils.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\bin\Debug\net7.0\Identity.Database.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\bin\Debug\net7.0\Identity.Domain.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\obj\Debug\net7.0\Identity.Behaviour.csproj.AssemblyReference.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\obj\Debug\net7.0\Identity.Behaviour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\obj\Debug\net7.0\Identity.Behaviour.AssemblyInfoInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\obj\Debug\net7.0\Identity.Behaviour.AssemblyInfo.cs
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\obj\Debug\net7.0\Identity.Behaviour.csproj.CoreCompileInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\obj\Debug\net7.0\Identity.Behaviour.csproj.CopyComplete
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\obj\Debug\net7.0\Identity.Behaviour.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\obj\Debug\net7.0\refint\Identity.Behaviour.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\obj\Debug\net7.0\Identity.Behaviour.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Behaviour\obj\Debug\net7.0\ref\Identity.Behaviour.dll

@@ -13,3 +13,18 @@ C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custum
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Database\obj\Debug\net7.0\refint\Custumer.Database.dll
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Database\obj\Debug\net7.0\Custumer.Database.pdb
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Database\obj\Debug\net7.0\ref\Custumer.Database.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Database\bin\Debug\net7.0\Custumer.Database.deps.json
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Database\bin\Debug\net7.0\Custumer.Database.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Database\bin\Debug\net7.0\Custumer.Database.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Database\bin\Debug\net7.0\Custumer.Domain.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Database\bin\Debug\net7.0\Custumer.Domain.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Database\obj\Debug\net7.0\Custumer.Database.csproj.AssemblyReference.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Database\obj\Debug\net7.0\Custumer.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Database\obj\Debug\net7.0\Custumer.Database.AssemblyInfoInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Database\obj\Debug\net7.0\Custumer.Database.AssemblyInfo.cs
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Database\obj\Debug\net7.0\Custumer.Database.csproj.CoreCompileInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Database\obj\Debug\net7.0\Custumer.Database.csproj.CopyComplete
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Database\obj\Debug\net7.0\Custumer.Database.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Database\obj\Debug\net7.0\refint\Custumer.Database.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Database\obj\Debug\net7.0\Custumer.Database.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Database\obj\Debug\net7.0\ref\Custumer.Database.dll

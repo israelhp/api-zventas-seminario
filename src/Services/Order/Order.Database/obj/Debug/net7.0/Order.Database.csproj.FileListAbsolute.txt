@@ -13,3 +13,18 @@ C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Order\Order.Dat
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Order\Order.Database\obj\Debug\net7.0\refint\Order.Database.dll
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Order\Order.Database\obj\Debug\net7.0\Order.Database.pdb
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Order\Order.Database\obj\Debug\net7.0\ref\Order.Database.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Database\bin\Debug\net7.0\Order.Database.deps.json
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Database\bin\Debug\net7.0\Order.Database.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Database\bin\Debug\net7.0\Order.Database.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Database\bin\Debug\net7.0\Order.Domain.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Database\bin\Debug\net7.0\Order.Domain.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Database\obj\Debug\net7.0\Order.Database.csproj.AssemblyReference.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Database\obj\Debug\net7.0\Order.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Database\obj\Debug\net7.0\Order.Database.AssemblyInfoInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Database\obj\Debug\net7.0\Order.Database.AssemblyInfo.cs
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Database\obj\Debug\net7.0\Order.Database.csproj.CoreCompileInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Database\obj\Debug\net7.0\Order.Database.csproj.CopyComplete
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Database\obj\Debug\net7.0\Order.Database.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Database\obj\Debug\net7.0\refint\Order.Database.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Database\obj\Debug\net7.0\Order.Database.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Database\obj\Debug\net7.0\ref\Order.Database.dll

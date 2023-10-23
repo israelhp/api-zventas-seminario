@@ -1,13 +1,19 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using MongoDB.Bson;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using System.Net;
 using System.Net.Http.Headers;
 using System.Text;
 
 namespace Api.Gateway.Webclient.Controllers
 {
-    public class IdentityController : Controller
+    [Route("token")]
+    [ApiController]
+    public class IdentityController : ControllerBase
     {
+
         string url = "";
         public IdentityController()
         {
@@ -15,25 +21,34 @@ namespace Api.Gateway.Webclient.Controllers
             .SetBasePath(Directory.GetCurrentDirectory())
             .AddJsonFile("appsettings.json")
             .Build();
-
+            
             url = configuration["MicroservicesUrls:IdentityApiUrl"];
         }
         [HttpPost]
-        public async Task<HttpResponseMessage> token([FromForm] string username, [FromForm] string password, [FromForm] string grant_type)
+        public async Task<IActionResult> token([FromForm] string username, [FromForm] string password, [FromForm] string grant_type)
         {
-            var requestData = new Dictionary<string, string>
+            try
             {
-                { "username", username },
-                { "password", password },
-                { "grant_type", grant_type }
-            };
-            var formContent = new FormUrlEncodedContent(requestData);
-            var _bearer_token = Request.Headers.Authorization.ToString().Replace("Bearer ", "");
-            var _httpClient = new HttpClient();
-            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _bearer_token);
-            var request = await _httpClient.PostAsync($"{url}/token", formContent);
-
-            return request;
+                var requestData = new Dictionary<string, string>
+                {
+                    { "username", username },
+                    { "password", password },
+                    { "grant_type", grant_type }
+                };
+                var formContent = new FormUrlEncodedContent(requestData);
+                var _httpClient = new HttpClient();
+                var request = await _httpClient.PostAsync($"{url}/token", formContent);
+                var responseContent = await request.Content.ReadAsStringAsync();
+                if (request.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+                {
+                    return Unauthorized();
+                }
+                return Content(responseContent, "application/json");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest("Error interno: " + ex.Message);
+            }
         }
     }
 }

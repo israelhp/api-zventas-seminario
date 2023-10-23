@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XH7co3ehfK0djt7rMm8EruFoT2x2zJg6QpS6TPCGe9qXPBnaQfWjirUVW+SaxMMg+5orfU8C9bzAW6Pw2pq1UQ==",
+  "dgSpecHash": "jowprtKO0Su361v6luligyBKYDMP2Q3YFfIWXBhKVXPe6yGpiVafKNdP+xDVXA1aruJMHxarSEhsBGMGC7SDaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Utils\\Identity.Utils.csproj",
+  "projectFilePath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Utils\\Identity.Utils.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rajua\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\rajua\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

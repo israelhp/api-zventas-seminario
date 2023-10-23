@@ -10,3 +10,15 @@ C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identi
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Domain\obj\Debug\net7.0\refint\Identity.Domain.dll
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Domain\obj\Debug\net7.0\Identity.Domain.pdb
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Identity\Identity.Domain\obj\Debug\net7.0\ref\Identity.Domain.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Domain\bin\Debug\net7.0\Identity.Domain.deps.json
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Domain\bin\Debug\net7.0\Identity.Domain.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Domain\bin\Debug\net7.0\Identity.Domain.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Domain\obj\Debug\net7.0\Identity.Domain.csproj.AssemblyReference.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Domain\obj\Debug\net7.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Domain\obj\Debug\net7.0\Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Domain\obj\Debug\net7.0\Identity.Domain.AssemblyInfo.cs
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Domain\obj\Debug\net7.0\Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Domain\obj\Debug\net7.0\Identity.Domain.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Domain\obj\Debug\net7.0\refint\Identity.Domain.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Domain\obj\Debug\net7.0\Identity.Domain.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Identity\Identity.Domain\obj\Debug\net7.0\ref\Identity.Domain.dll

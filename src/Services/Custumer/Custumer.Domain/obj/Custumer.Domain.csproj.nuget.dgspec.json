@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Domain\\Custumer.Domain.csproj": {}
+    "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Domain\\Custumer.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Domain\\Custumer.Domain.csproj": {
+    "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Domain\\Custumer.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Domain\\Custumer.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Domain\\Custumer.Domain.csproj",
         "projectName": "Custumer.Domain",
-        "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Domain\\Custumer.Domain.csproj",
+        "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Domain\\Custumer.Domain.csproj",
         "packagesPath": "C:\\Users\\rajua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Custumer\\Custumer.Domain\\obj\\",
+        "outputPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Custumer\\Custumer.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rajua\\AppData\\Roaming\\NuGet\\NuGet.Config",

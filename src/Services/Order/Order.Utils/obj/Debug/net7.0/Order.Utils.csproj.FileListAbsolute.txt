@@ -13,3 +13,18 @@ C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Order\Order.Uti
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Order\Order.Utils\obj\Debug\net7.0\refint\Order.Utils.dll
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Order\Order.Utils\obj\Debug\net7.0\Order.Utils.pdb
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Order\Order.Utils\obj\Debug\net7.0\ref\Order.Utils.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Utils\bin\Debug\net7.0\Order.Utils.deps.json
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Utils\bin\Debug\net7.0\Order.Utils.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Utils\bin\Debug\net7.0\Order.Utils.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Utils\bin\Debug\net7.0\Order.Domain.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Utils\bin\Debug\net7.0\Order.Domain.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Utils\obj\Debug\net7.0\Order.Utils.csproj.AssemblyReference.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Utils\obj\Debug\net7.0\Order.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Utils\obj\Debug\net7.0\Order.Utils.AssemblyInfoInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Utils\obj\Debug\net7.0\Order.Utils.AssemblyInfo.cs
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Utils\obj\Debug\net7.0\Order.Utils.csproj.CoreCompileInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Utils\obj\Debug\net7.0\Order.Utils.csproj.CopyComplete
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Utils\obj\Debug\net7.0\Order.Utils.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Utils\obj\Debug\net7.0\refint\Order.Utils.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Utils\obj\Debug\net7.0\Order.Utils.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Order\Order.Utils\obj\Debug\net7.0\ref\Order.Utils.dll

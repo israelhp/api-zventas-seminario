@@ -5431,11 +5431,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Api\\Identity.Api.csproj",
+      "projectUniqueName": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Api\\Identity.Api.csproj",
       "projectName": "Identity.Api",
-      "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Api\\Identity.Api.csproj",
+      "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Api\\Identity.Api.csproj",
       "packagesPath": "C:\\Users\\rajua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Api\\obj\\",
+      "outputPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rajua\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5453,11 +5453,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Behaviour\\Identity.Behaviour.csproj": {
-              "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Behaviour\\Identity.Behaviour.csproj"
+            "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Behaviour\\Identity.Behaviour.csproj": {
+              "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Behaviour\\Identity.Behaviour.csproj"
             },
-            "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Domain\\Identity.Domain.csproj": {
-              "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Domain\\Identity.Domain.csproj"
+            "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Domain\\Identity.Domain.csproj": {
+              "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Domain\\Identity.Domain.csproj"
             }
           }
         }

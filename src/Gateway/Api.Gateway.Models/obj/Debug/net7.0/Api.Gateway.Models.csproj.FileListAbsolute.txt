@@ -10,3 +10,15 @@ C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Gateway\Api.Gateway.Mode
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Gateway\Api.Gateway.Models\obj\Debug\net7.0\refint\Api.Gateway.Models.dll
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Gateway\Api.Gateway.Models\obj\Debug\net7.0\Api.Gateway.Models.pdb
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Gateway\Api.Gateway.Models\obj\Debug\net7.0\ref\Api.Gateway.Models.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Gateway\Api.Gateway.Models\bin\Debug\net7.0\Api.Gateway.Models.deps.json
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Gateway\Api.Gateway.Models\bin\Debug\net7.0\Api.Gateway.Models.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Gateway\Api.Gateway.Models\bin\Debug\net7.0\Api.Gateway.Models.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Gateway\Api.Gateway.Models\obj\Debug\net7.0\Api.Gateway.Models.csproj.AssemblyReference.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Gateway\Api.Gateway.Models\obj\Debug\net7.0\Api.Gateway.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Gateway\Api.Gateway.Models\obj\Debug\net7.0\Api.Gateway.Models.AssemblyInfoInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Gateway\Api.Gateway.Models\obj\Debug\net7.0\Api.Gateway.Models.AssemblyInfo.cs
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Gateway\Api.Gateway.Models\obj\Debug\net7.0\Api.Gateway.Models.csproj.CoreCompileInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Gateway\Api.Gateway.Models\obj\Debug\net7.0\Api.Gateway.Models.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Gateway\Api.Gateway.Models\obj\Debug\net7.0\refint\Api.Gateway.Models.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Gateway\Api.Gateway.Models\obj\Debug\net7.0\Api.Gateway.Models.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Gateway\Api.Gateway.Models\obj\Debug\net7.0\ref\Api.Gateway.Models.dll

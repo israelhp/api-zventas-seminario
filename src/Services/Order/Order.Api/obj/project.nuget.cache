@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6qc3r1JrVvhptk1s8Rt22w5nCk424Q7uG590SElkbyMDv8ikPQme2mLCu4cmyavHwE5qVuwvRwCzvuW2zZ6vLA==",
+  "dgSpecHash": "voS+785T7ut27jf8zdcvFA0eK8Fjg2onHMIpsBOntWMWy9tnI2x1i67M79stB9mqFK1ruC4NnJgt4MOyfjwrwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Order\\Order.Api\\Order.Api.csproj",
+  "projectFilePath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Order\\Order.Api\\Order.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rajua\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\rajua\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

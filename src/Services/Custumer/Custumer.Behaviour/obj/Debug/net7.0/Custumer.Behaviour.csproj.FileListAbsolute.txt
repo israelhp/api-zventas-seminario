@@ -17,3 +17,22 @@ C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custum
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Behaviour\obj\Debug\net7.0\refint\Custumer.Behaviour.dll
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Behaviour\obj\Debug\net7.0\Custumer.Behaviour.pdb
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Custumer\Custumer.Behaviour\obj\Debug\net7.0\ref\Custumer.Behaviour.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\bin\Debug\net7.0\Custumer.Behaviour.deps.json
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\bin\Debug\net7.0\Custumer.Behaviour.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\bin\Debug\net7.0\Custumer.Behaviour.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\bin\Debug\net7.0\Custumer.Database.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\bin\Debug\net7.0\Custumer.Domain.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\bin\Debug\net7.0\Custumer.Utils.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\bin\Debug\net7.0\Custumer.Database.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\bin\Debug\net7.0\Custumer.Domain.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\bin\Debug\net7.0\Custumer.Utils.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\obj\Debug\net7.0\Custumer.Behaviour.csproj.AssemblyReference.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\obj\Debug\net7.0\Custumer.Behaviour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\obj\Debug\net7.0\Custumer.Behaviour.AssemblyInfoInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\obj\Debug\net7.0\Custumer.Behaviour.AssemblyInfo.cs
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\obj\Debug\net7.0\Custumer.Behaviour.csproj.CoreCompileInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\obj\Debug\net7.0\Custumer.Behaviour.csproj.CopyComplete
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\obj\Debug\net7.0\Custumer.Behaviour.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\obj\Debug\net7.0\refint\Custumer.Behaviour.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\obj\Debug\net7.0\Custumer.Behaviour.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Custumer\Custumer.Behaviour\obj\Debug\net7.0\ref\Custumer.Behaviour.dll

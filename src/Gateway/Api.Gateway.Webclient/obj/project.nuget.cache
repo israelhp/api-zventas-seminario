@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W7SYq7V39PKBZog2VXKnI4M9zQgZgScOOJ5J8wy4w9+cCfGu1lIWq6CYyT/I/JbX2LFN9ApqTHeihJ2arX28Pw==",
+  "dgSpecHash": "R7lTIpsdoIEnMXAV0Vl+2TdgcPYUOpy5ooZGWx3OJeCwnHGKcNlHm5l7K3MvvLHDQ8rA/L6Ew24tjwvw5VxrXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Gateway\\Api.Gateway.Webclient\\Api.Gateway.Webclient.csproj",
+  "projectFilePath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Gateway\\Api.Gateway.Webclient\\Api.Gateway.Webclient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rajua\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.12\\microsoft.aspnetcore.authentication.jwtbearer.7.0.12.nupkg.sha512",
     "C:\\Users\\rajua\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",

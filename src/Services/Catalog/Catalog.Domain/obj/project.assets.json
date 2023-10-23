@@ -335,11 +335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj",
       "projectName": "Catalog.Domain",
-      "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj",
+      "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj",
       "packagesPath": "C:\\Users\\rajua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Catalog\\Catalog.Domain\\obj\\",
+      "outputPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Catalog\\Catalog.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rajua\\AppData\\Roaming\\NuGet\\NuGet.Config",

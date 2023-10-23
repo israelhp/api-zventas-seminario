@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Gateway\\Api.Gateway.Webclient\\Api.Gateway.Webclient.csproj": {}
+    "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Gateway\\Api.Gateway.Webclient\\Api.Gateway.Webclient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Gateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj": {
+    "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Gateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Gateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj",
+        "projectUniqueName": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Gateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj",
         "projectName": "Api.Gateway.Models",
-        "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Gateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj",
+        "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Gateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj",
         "packagesPath": "C:\\Users\\rajua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Gateway\\Api.Gateway.Models\\obj\\",
+        "outputPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Gateway\\Api.Gateway.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rajua\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Gateway\\Api.Gateway.Webclient\\Api.Gateway.Webclient.csproj": {
+    "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Gateway\\Api.Gateway.Webclient\\Api.Gateway.Webclient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Gateway\\Api.Gateway.Webclient\\Api.Gateway.Webclient.csproj",
+        "projectUniqueName": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Gateway\\Api.Gateway.Webclient\\Api.Gateway.Webclient.csproj",
         "projectName": "Api.Gateway.Webclient",
-        "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Gateway\\Api.Gateway.Webclient\\Api.Gateway.Webclient.csproj",
+        "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Gateway\\Api.Gateway.Webclient\\Api.Gateway.Webclient.csproj",
         "packagesPath": "C:\\Users\\rajua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Gateway\\Api.Gateway.Webclient\\obj\\",
+        "outputPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Gateway\\Api.Gateway.Webclient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rajua\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Gateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj": {
-                "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Gateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj"
+              "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Gateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj": {
+                "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Gateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj"
               }
             }
           }

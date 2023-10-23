@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nxt4fpdbM+nPy5We9fUIP447lZzFl0DKHKTfYm8khgtiFUCzyxEGzylMxEKCeTuy2MgrmJf16EEZWoPO12/ZhA==",
+  "dgSpecHash": "Prl1wcTj6tSwvFev9o7G1cXcpiA7uiTsWzgtrPZHDZ5/4B5XBTgVhVDL4w5aHjQR0pYJAsu7OrknCs1f79KnUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj",
+  "projectFilePath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rajua\\.nuget\\packages\\mongodb.bson\\2.22.0\\mongodb.bson.2.22.0.nupkg.sha512",
     "C:\\Users\\rajua\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",

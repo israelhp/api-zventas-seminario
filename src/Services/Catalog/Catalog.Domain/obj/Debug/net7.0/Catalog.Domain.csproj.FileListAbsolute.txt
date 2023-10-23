@@ -10,3 +10,15 @@ C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Domain\obj\Debug\net7.0\refint\Catalog.Domain.dll
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Domain\obj\Debug\net7.0\Catalog.Domain.pdb
 C:\Users\rajua\source\repos\RIISEM.ECOMMERCE.WEBAPI\src\Services\Catalog\Catalog.Domain\obj\Debug\net7.0\ref\Catalog.Domain.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Catalog\Catalog.Domain\bin\Debug\net7.0\Catalog.Domain.deps.json
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Catalog\Catalog.Domain\bin\Debug\net7.0\Catalog.Domain.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Catalog\Catalog.Domain\bin\Debug\net7.0\Catalog.Domain.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Catalog\Catalog.Domain\obj\Debug\net7.0\Catalog.Domain.csproj.AssemblyReference.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Catalog\Catalog.Domain\obj\Debug\net7.0\Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Catalog\Catalog.Domain\obj\Debug\net7.0\Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Catalog\Catalog.Domain\obj\Debug\net7.0\Catalog.Domain.AssemblyInfo.cs
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Catalog\Catalog.Domain\obj\Debug\net7.0\Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Catalog\Catalog.Domain\obj\Debug\net7.0\Catalog.Domain.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Catalog\Catalog.Domain\obj\Debug\net7.0\refint\Catalog.Domain.dll
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Catalog\Catalog.Domain\obj\Debug\net7.0\Catalog.Domain.pdb
+C:\Users\rajua\Desktop\RIISEM MICROSERVICES\api-zventas-seminario\src\Services\Catalog\Catalog.Domain\obj\Debug\net7.0\ref\Catalog.Domain.dll

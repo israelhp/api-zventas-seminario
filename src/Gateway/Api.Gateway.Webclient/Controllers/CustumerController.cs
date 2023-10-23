@@ -1,14 +1,19 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using MongoDB.Bson;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using System.Net.Http.Headers;
 using System.Text;
+using static Api.Gateway.Models.Common.DTOs.CommonDto;
 using static Api.Gateway.Models.Custumer.DTOs.CustumerDto;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Api.Gateway.Webclient.Controllers
 {
     [Route("Custumer")]
-    public class CustumerController : Controller
+    [ApiController]
+    public class CustumerController : ControllerBase
     {
         string url = "";
         public CustumerController()
@@ -20,72 +25,157 @@ namespace Api.Gateway.Webclient.Controllers
 
             url = configuration["MicroservicesUrls:CustumerApiUrl"];
         }
+
         [HttpPost]
-        public async Task<HttpResponseMessage> InsertUser([FromBody] User usuario)
+        public async Task<IActionResult> InsertUser([FromBody] dynamic datos)
         {
-            var content = new StringContent(JsonConvert.SerializeObject(usuario), Encoding.UTF8, "application/json");
-            var _httpClient = new HttpClient();
-            var request = await _httpClient.PostAsync(url, content);
-            return request;
+            try
+            {
+                var content = new StringContent(datos.ToString(), Encoding.UTF8, "application/json");
+                var _httpClient = new HttpClient();
+                var request = await _httpClient.PostAsync(url, content);
+                var responseContent = await request.Content.ReadAsStringAsync();
+                if (request.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+                {
+                    return Unauthorized();
+                }
+                return Content(responseContent, "application/json");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest("Error interno: " + ex.Message);
+            }
         }
         [HttpPost]
         [Route("ResetPasswordRequest")]
-        public async Task<HttpResponseMessage> PasswordResetRequest([FromBody] User usuario)
+        public async Task<IActionResult> PasswordResetRequest([FromBody] dynamic usuario)
         {
-            var content = new StringContent(JsonConvert.SerializeObject(usuario), Encoding.UTF8, "application/json");
-            var _httpClient = new HttpClient();
-            var request = await _httpClient.PostAsync($"{url}/ResetPasswordRequest", content);
-            return request;
+            try
+            {
+                var content = new StringContent(usuario.ToString(), Encoding.UTF8, "application/json");
+                var _httpClient = new HttpClient();
+                var request = await _httpClient.PostAsync($"{url}/ResetPasswordRequest", content);
+                var responseContent = await request.Content.ReadAsStringAsync();
+                if (request.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+                {
+                    return Unauthorized();
+                }
+                return Content(responseContent, "application/json");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest("Error interno: " + ex.Message);
+            }
         }
 
         [HttpPost]
         [Route("ResetPassword")]
-        public async Task<HttpResponseMessage> PasswordReset([FromBody] User usuario)
+        public async Task<IActionResult> PasswordReset([FromBody] dynamic usuario)
         {
-            var content = new StringContent(JsonConvert.SerializeObject(usuario), Encoding.UTF8, "application/json");
-            var _httpClient = new HttpClient();
-            var request = await _httpClient.PostAsync($"{url}/ResetPassword", content);
-            return request;
+            try
+            {
+                var content = new StringContent(usuario.ToString(), Encoding.UTF8, "application/json");
+                var _httpClient = new HttpClient();
+                var request = await _httpClient.PostAsync($"{url}/ResetPassword", content);
+                var responseContent = await request.Content.ReadAsStringAsync();
+                if (request.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+                {
+                    return Unauthorized();
+                }
+                return Content(responseContent, "application/json");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest("Error interno: " + ex.Message);
+            }
         }
         [HttpPost]
         [Route("ChangePassword")]
-        public async Task<HttpResponseMessage> ChangePassword([FromBody] dynamic passwords)
+        public async Task<IActionResult> ChangePassword([FromBody] dynamic passwords)
         {
-            var _bearer_token = Request.Headers.Authorization.ToString().Replace("Bearer ", "");
-            var content = new StringContent(JsonConvert.SerializeObject(passwords), Encoding.UTF8, "application/json");
-            var _httpClient = new HttpClient();
-            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _bearer_token);
-            var request = await _httpClient.PostAsync($"{url}/ChangePassword", content);
-            return request;
+            try
+            {
+                var _bearer_token = Request.Headers.Authorization.ToString().Replace("Bearer ", "");
+                var content = new StringContent(passwords.ToString(), Encoding.UTF8, "application/json");
+                var _httpClient = new HttpClient();
+                _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _bearer_token);
+                var request = await _httpClient.PostAsync($"{url}/ChangePassword", content);
+                var responseContent = await request.Content.ReadAsStringAsync();
+                if (request.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+                {
+                    return Unauthorized();
+                }
+                return Content(responseContent, "application/json");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest("Error interno: " + ex.Message);
+            }
         }
         [HttpDelete]
-        public async Task<HttpResponseMessage> DeleteUser()
+        public async Task<IActionResult> DeleteUser()
         {
-            var _bearer_token = Request.Headers.Authorization.ToString().Replace("Bearer ", "");
-            var _httpClient = new HttpClient();
-            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _bearer_token);
-            var request = await _httpClient.DeleteAsync($"{url}");
-            return request;
+            try
+            {
+                var _bearer_token = Request.Headers.Authorization.ToString().Replace("Bearer ", "");
+                var _httpClient = new HttpClient();
+                _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _bearer_token);
+                var request = await _httpClient.DeleteAsync($"{url}");
+                var responseContent = await request.Content.ReadAsStringAsync();
+                if (request.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+                {
+                    return Unauthorized();
+                }
+                return Content(responseContent, "application/json");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest("Error interno: " + ex.Message);
+            }
         }
         [HttpGet]
-        public async Task<HttpResponseMessage> InfoUser()
+        public async Task<IActionResult> InfoUser()
         {
-            var _bearer_token = Request.Headers.Authorization.ToString().Replace("Bearer ", "");
-            var _httpClient = new HttpClient();
-            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _bearer_token);
-            var request = await _httpClient.GetAsync($"{url}");
-            return request;
+            try
+            {
+                var _httpClient = new HttpClient();
+                var _bearer_token = Request.Headers.Authorization.ToString().Replace("Bearer ", "");
+                _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _bearer_token);
+                var request = await _httpClient.GetAsync($"{url}");
+                var responseContent = await request.Content.ReadAsStringAsync();
+                if (request.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+                {
+                    return Unauthorized();
+                }
+                return Content(responseContent, "application/json");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest("Error interno: " + ex.Message);
+            }
         }
         [HttpPut]
         [Route("profile")]
-        public async Task<HttpResponseMessage> UpdateProfile([FromBody] dynamic profile)
+        public async Task<IActionResult> UpdateProfile([FromBody] dynamic profile)
         {
-            var _bearer_token = Request.Headers.Authorization.ToString().Replace("Bearer ", "");
-            var content = new StringContent(JsonConvert.SerializeObject(profile), Encoding.UTF8, "application/json");
-            var _httpClient = new HttpClient();
-            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _bearer_token);
-            var request = await _httpClient.PutAsync($"{url}/profile", content);
-            return request;
+            try
+            {
+                var _bearer_token = Request.Headers.Authorization.ToString().Replace("Bearer ", "");
+                var content = new StringContent(profile.ToString(), Encoding.UTF8, "application/json");
+                var _httpClient = new HttpClient();
+                _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _bearer_token);
+                var request = await _httpClient.PutAsync($"{url}/profile", content);
+                var responseContent = await request.Content.ReadAsStringAsync();
+                if (request.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+                {
+                    return Unauthorized();
+                }
+                return Content(responseContent, "application/json");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest("Error interno: " + ex.Message);
+            }
         }
     }
 }

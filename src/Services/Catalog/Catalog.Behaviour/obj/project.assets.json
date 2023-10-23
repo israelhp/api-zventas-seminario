@@ -4488,11 +4488,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Catalog\\Catalog.Behaviour\\Catalog.Behaviour.csproj",
+      "projectUniqueName": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Catalog\\Catalog.Behaviour\\Catalog.Behaviour.csproj",
       "projectName": "Catalog.Behaviour",
-      "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Catalog\\Catalog.Behaviour\\Catalog.Behaviour.csproj",
+      "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Catalog\\Catalog.Behaviour\\Catalog.Behaviour.csproj",
       "packagesPath": "C:\\Users\\rajua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Catalog\\Catalog.Behaviour\\obj\\",
+      "outputPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Catalog\\Catalog.Behaviour\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rajua\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4509,17 +4509,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Catalog\\Catalog.Database\\Catalog.Database.csproj": {
-              "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Catalog\\Catalog.Database\\Catalog.Database.csproj"
+            "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Catalog\\Catalog.Database\\Catalog.Database.csproj": {
+              "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Catalog\\Catalog.Database\\Catalog.Database.csproj"
             },
-            "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj": {
-              "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj"
+            "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj": {
+              "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj"
             },
-            "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Catalog\\Catalog.Utils\\Catalog.Utils.csproj": {
-              "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Catalog\\Catalog.Utils\\Catalog.Utils.csproj"
+            "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Catalog\\Catalog.Utils\\Catalog.Utils.csproj": {
+              "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Catalog\\Catalog.Utils\\Catalog.Utils.csproj"
             },
-            "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Utils\\Identity.Utils.csproj": {
-              "projectPath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Identity\\Identity.Utils\\Identity.Utils.csproj"
+            "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Utils\\Identity.Utils.csproj": {
+              "projectPath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Identity\\Identity.Utils\\Identity.Utils.csproj"
             }
           }
         }

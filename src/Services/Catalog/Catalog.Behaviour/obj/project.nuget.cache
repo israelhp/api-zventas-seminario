@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r75osw/IZlPEjnnP25/9L7/oCiLD6njsJFjURB9hmRSiZ3FNhIst4xWKrO3doS3afnpkkgYYpTYUxgURysHSyw==",
+  "dgSpecHash": "mjA9LHzcqkmOWkZsyFo/SYM+xQxrk6P17kcL88J2Yppf3PPzrv2UU0dkWcn8U/NZJLtmZw0lTwCo4pC+d/VO0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Services\\Catalog\\Catalog.Behaviour\\Catalog.Behaviour.csproj",
+  "projectFilePath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Services\\Catalog\\Catalog.Behaviour\\Catalog.Behaviour.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rajua\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\rajua\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

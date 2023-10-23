@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d+zdnJZKVJm4J7RTFk5d0gH9c8Vbu81YBXIFOkwwO2LHR3kTgOrPZyThQTrS8NxmWkzzo3mFRLgoZzXJujTQOQ==",
+  "dgSpecHash": "6OxCaS9aCexnTt2onXZfY3wz9dC9F6KslAUtGIJHAM3eclg5YobiihFv3oOaiFojzhlX/RNATWT1jkrK38VabA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rajua\\source\\repos\\RIISEM.ECOMMERCE.WEBAPI\\src\\Gateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj",
+  "projectFilePath": "C:\\Users\\rajua\\Desktop\\RIISEM MICROSERVICES\\api-zventas-seminario\\src\\Gateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rajua\\.nuget\\packages\\mongodb.bson\\2.22.0\\mongodb.bson.2.22.0.nupkg.sha512",
     "C:\\Users\\rajua\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

@@ -9,8 +9,10 @@ using static Api.Gateway.Models.Order.DTOs.OrderDto;
 namespace Api.Gateway.Webclient.Controllers
 {
     [Route("orders")]
-    public class OrderController : Controller
+    [ApiController]
+    public class OrderController : ControllerBase
     {
+
         string url = "";
         public OrderController()
         {
@@ -18,39 +20,76 @@ namespace Api.Gateway.Webclient.Controllers
             .SetBasePath(Directory.GetCurrentDirectory())
             .AddJsonFile("appsettings.json")
             .Build();
-
             url = configuration["MicroservicesUrls:OrderApiUrl"];
         }
+
         [HttpPost]
-        public async Task<HttpResponseMessage> CreateAsync([FromBody] Order orden)
-        {
-            var _bearer_token = Request.Headers.Authorization.ToString().Replace("Bearer ", "");
-            var content = new StringContent(JsonConvert.SerializeObject(orden), Encoding.UTF8, "application/json");
-            var _httpClient = new HttpClient();
-            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _bearer_token);
-            var request = await _httpClient.PostAsync($"{url}", content);
-            return request;
+        public async Task<IActionResult> CreateAsync([FromBody] dynamic orden)
+        { 
+            try
+            {
+                var _bearer_token = Request.Headers.Authorization.ToString().Replace("Bearer ", "");
+                var content = new StringContent(orden.ToString(), Encoding.UTF8, "application/json");
+                var _httpClient = new HttpClient();
+                _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _bearer_token);
+                var request = await _httpClient.PostAsync($"{url}", content);
+                var responseContent = await request.Content.ReadAsStringAsync();
+                if (request.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+                {
+                    return Unauthorized();
+                }
+                return Content(responseContent, "application/json");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest("Error interno: " + ex.Message);
+            }
         }
 
         [HttpGet]
-        public async Task<HttpResponseMessage> CreateAsyncGet()
-        {
-            var _bearer_token = Request.Headers.Authorization.ToString().Replace("Bearer ", "");
-            var _httpClient = new HttpClient();
-            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _bearer_token);
-            var request = await _httpClient.GetAsync($"{url}");
-            return request;
+        public async Task<IActionResult> GetAsync()
+        { 
+            try
+            {
+                var _bearer_token = Request.Headers.Authorization.ToString().Replace("Bearer ", "");
+                var _httpClient = new HttpClient();
+                _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _bearer_token);
+                var request = await _httpClient.GetAsync($"{url}");
+                var responseContent = await request.Content.ReadAsStringAsync();
+                if (request.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+                {
+                    return Unauthorized();
+                }
+                return Content(responseContent, "application/json");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest("Error interno: " + ex.Message);
+            }
         }
 
         [Route("{id}")]
         [HttpDelete]
-        public async Task<HttpResponseMessage> CreateAsyncDelete(string id)
+        public async Task<IActionResult> DeleteAsync(string id)
         {
-            var _bearer_token = Request.Headers.Authorization.ToString().Replace("Bearer ", "");
-            var _httpClient = new HttpClient();
-            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _bearer_token);
-            var request = await _httpClient.DeleteAsync($"{url}/{id}");
-            return request;
+            try
+            {
+                var _bearer_token = Request.Headers.Authorization.ToString().Replace("Bearer ", "");
+                var _httpClient = new HttpClient();
+                _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _bearer_token);
+                var request = await _httpClient.DeleteAsync($"{url}/{id}");
+                var responseContent = await request.Content.ReadAsStringAsync();
+                if (request.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+                {
+                    return Unauthorized();
+                }
+                return Content(responseContent, "application/json");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest("Error interno: " + ex.Message);
+            }
+
         }
     }
 }
